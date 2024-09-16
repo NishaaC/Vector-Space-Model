@@ -1,0 +1,72 @@
+Query: balanced diet
+  Document: The importance of proper diet.txt, Similarity: 0.3193
+  Document: Balanced diet.txt, Similarity: 0.0763
+  Document: Technology Trends.txt, Similarity: 0.0000
+  Document: Climate Change and Environment.txt, Similarity: 0.0000
+  Document: Education and Learning.txt, Similarity: 0.0000
+  Document: Sports and Fitness.txt, Similarity: 0.0000
+  Document: The Role of Physical Fitness in Mental Health.txt, Similarity: 0.0000
+  Document: The Evolution of Smart Technology.txt, Similarity: 0.0000
+  Document: The benefits of Regular exercise.txt, Similarity: 0.0000
+  Document: Climate change and its impact on ecosystem.txt, Similarity: 0.0000
+
+Query: good health
+  Document: The importance of proper diet.txt, Similarity: 0.2203
+  Document: Technology Trends.txt, Similarity: 0.0000
+  Document: Balanced diet.txt, Similarity: 0.0000
+  Document: Climate Change and Environment.txt, Similarity: 0.0000
+  Document: Education and Learning.txt, Similarity: 0.0000
+  Document: Sports and Fitness.txt, Similarity: 0.0000
+  Document: The Role of Physical Fitness in Mental Health.txt, Similarity: 0.0000
+  Document: The Evolution of Smart Technology.txt, Similarity: 0.0000
+  Document: The benefits of Regular exercise.txt, Similarity: 0.0000
+  Document: Climate change and its impact on ecosystem.txt, Similarity: 0.0000
+
+Query: technology
+  Document: The Evolution of Smart Technology.txt, Similarity: 0.2056
+  Document: Technology Trends.txt, Similarity: 0.1229
+  Document: Balanced diet.txt, Similarity: 0.0000
+  Document: Climate Change and Environment.txt, Similarity: 0.0000
+  Document: Education and Learning.txt, Similarity: 0.0000
+  Document: Sports and Fitness.txt, Similarity: 0.0000
+  Document: The Role of Physical Fitness in Mental Health.txt, Similarity: 0.0000
+  Document: The benefits of Regular exercise.txt, Similarity: 0.0000
+  Document: Climate change and its impact on ecosystem.txt, Similarity: 0.0000
+  Document: The importance of proper diet.txt, Similarity: 0.0000
+
+Query: climate change
+  Document: Climate change and its impact on ecosystem.txt, Similarity: 0.3257
+  Document: Technology Trends.txt, Similarity: 0.0000
+  Document: Balanced diet.txt, Similarity: 0.0000
+  Document: Climate Change and Environment.txt, Similarity: 0.0000
+  Document: Education and Learning.txt, Similarity: 0.0000
+  Document: Sports and Fitness.txt, Similarity: 0.0000
+  Document: The Role of Physical Fitness in Mental Health.txt, Similarity: 0.0000
+  Document: The Evolution of Smart Technology.txt, Similarity: 0.0000
+  Document: The benefits of Regular exercise.txt, Similarity: 0.0000
+  Document: The importance of proper diet.txt, Similarity: 0.0000
+
+Query: education
+  Document: Education and Learning.txt, Similarity: 0.1602
+  Document: Technology Trends.txt, Similarity: 0.0000
+  Document: Balanced diet.txt, Similarity: 0.0000
+  Document: Climate Change and Environment.txt, Similarity: 0.0000
+  Document: Sports and Fitness.txt, Similarity: 0.0000
+  Document: The Role of Physical Fitness in Mental Health.txt, Similarity: 0.0000
+  Document: The Evolution of Smart Technology.txt, Similarity: 0.0000
+  Document: The benefits of Regular exercise.txt, Similarity: 0.0000
+  Document: Climate change and its impact on ecosystem.txt, Similarity: 0.0000
+  Document: The importance of proper diet.txt, Similarity: 0.0000
+
+Query: ecosystem
+  Document: Technology Trends.txt, Similarity: 0.0000
+  Document: Balanced diet.txt, Similarity: 0.0000
+  Document: Climate Change and Environment.txt, Similarity: 0.0000
+  Document: Education and Learning.txt, Similarity: 0.0000
+  Document: Sports and Fitness.txt, Similarity: 0.0000
+  Document: The Role of Physical Fitness in Mental Health.txt, Similarity: 0.0000
+  Document: The Evolution of Smart Technology.txt, Similarity: 0.0000
+  Document: The benefits of Regular exercise.txt, Similarity: 0.0000
+  Document: Climate change and its impact on ecosystem.txt, Similarity: 0.0000
+  Document: The importance of proper diet.txt, Similarity: 0.0000
+
