@@ -1,1 +1,1 @@
-# Vector-Space-Model
+This project implements a simple Vector Space Model (VSM) for text files. It processes documents, computes TF-IDF vectors, and ranks them based on cosine similarity to user queries. The system includes functions for cleaning text (tokenizing, lemmatizing, removing stop words), calculating TF-IDF, and handling queries. Results are saved to `results_Nisha.txt`.
